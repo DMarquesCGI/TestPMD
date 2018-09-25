@@ -1,0 +1,8 @@
+public class TestDaniel {
+
+    public static void debugNome(){
+        String name = 'ISto é um nome';
+        string lixo = 'LIXO';
+        system.debug('' + lixo);
+    }
+} 
