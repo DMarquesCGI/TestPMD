@@ -5,7 +5,7 @@ package com.toolstest;
  */
 public class App {
 	
-	//private String name;
+	private String name;
     public static void main(String[] args) {
         int i = 1;
 		int o = 2;
